@@ -1,0 +1,17 @@
+{
+  "hash": "1aa5a038f7c3b37e736133eb09a2bff9",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"FRUSEED\"\nsubtitle: \"**A global, open, dynamic, reproducible database of fruit and seed traits**\"\n---\n\n\n\n\n<br>\n\n- **+60 traits** on fruit and seed types, colour, mass, size, nutrients, as well as plant dispersal modes, life history, etc.\n\n- **+280,000 seed plant species** (angio and gymnosperms) recorded so far\n\n- **+1000 data sources** integrated\n\n- Data from **individual to population to species**, genus, and family level\n\n- **Dynamic and reproducible**: 100% traceable from raw data to final database\n\n- **Automatic quality control** leveraging software development tools (*GitHub Actions*)\n\n- **Credit attribution** to both data collectors and database curators\n\n\n<br>\n\n\n\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![](images/logo_FRUSEED.png){fig-align='center' width=30%}\n:::\n:::\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

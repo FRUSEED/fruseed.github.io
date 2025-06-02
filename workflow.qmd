@@ -1,0 +1,10 @@
+---
+title: "Workflow"
+---
+
+```{r}
+#| out.width: '70%'
+#| echo: false
+knitr::include_graphics("images/workflow.png")
+```
+

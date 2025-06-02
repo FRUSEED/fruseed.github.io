@@ -1,0 +1,60 @@
+---
+title: "Team"
+
+listing:
+  - id: core
+    contents: "team/core/*.qmd"
+    type: grid
+    image-height: 225px
+    grid-columns: 3
+    sort: sortby
+    fields: [image, title, subtitle]
+    grid-item-align: center
+    categories: false
+    
+  - id: advisory
+    contents: "team/advisory/*.qmd"
+    type: grid
+    image-height: 225px
+    grid-columns: 3
+    sort: sortby
+    fields: [image, title, subtitle]
+    grid-item-align: center
+    categories: false
+---
+
+## Core team
+
+::: {#core}
+:::
+
+
+## Advisory team
+
+::: {#advisory}
+:::
+
+
+## Contributors
+
+*In alphabetical order*
+
+[Ana Benítez-López](https://www.anabenitezlopez.com/), Museo Nacional de Ciencias Naturales, CSIC, Spain.
+
+Emilie Gehin, Ecole Nationale Supérieure Agronomique de Toulouse, France.
+
+Mario Masero León, Departamento de Biología Vegetal y Ecología, Universidad de Sevilla, Spain.
+
+José Luis Medina Gavilán, Consejería de Medio Ambiente, Junta de Andalucía y Departamento de Biología Vegetal y Ecología, Universidad de Sevilla, Spain.
+
+[Irene Mendoza](https://area.us.es/bioeco/personal/Postdoctoral/IreneMendozaSagrera.html), Departamento de Biología Vegetal y Ecología, Universidad de Sevilla, Spain.
+
+[Néstor Pérez-Méndez](https://nperezmendez.weebly.com/), Institut de Recerca i Tecnologies Agroalimentàries (IRTA), Spain.
+
+María Sánchez-Gracia, Departamento de Biología Vegetal y Ecología, Universidad de Sevilla, Spain.
+
+[Alfredo Valido](https://www.ipna.csic.es/personal/alfredo-valido-amador), Instituto de Productos Naturales y Agrobiología, CSIC, Spain.
+
+
+
+

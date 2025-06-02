@@ -1,0 +1,17 @@
+{
+  "hash": "c9bfa167a2030b9a9167df0d1f1af2ab",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Workflow\"\n---\n\n::: {.cell}\n::: {.cell-output-display}\n![](images/workflow.png){width=70%}\n:::\n:::\n",
+    "supporting": [
+      "workflow_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

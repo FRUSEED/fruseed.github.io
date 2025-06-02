@@ -1,0 +1,17 @@
+{
+  "hash": "096f882edcd25d9f4d381fe60a967045",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Data\"\n---\n\n\n\n\nThe data will be available soon. Main traits available so far:\n\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](images/tabla.png){width=70%}\n:::\n:::\n",
+    "supporting": [
+      "data_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

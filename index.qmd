@@ -1,0 +1,32 @@
+---
+title: "FRUSEED"
+subtitle: "**A global, open, dynamic, reproducible database of fruit and seed traits**"
+---
+
+<br>
+
+- **+60 traits** on fruit and seed types, colour, mass, size, nutrients, as well as plant dispersal modes, life history, etc.
+
+- **+280,000 seed plant species** (angio and gymnosperms) recorded so far
+
+- **+1000 data sources** integrated
+
+- Data from **individual to population to species**, genus, and family level
+
+- **Dynamic and reproducible**: 100% traceable from raw data to final database
+
+- **Automatic quality control** leveraging software development tools (*GitHub Actions*)
+
+- **Credit attribution** to both data collectors and database curators
+
+
+<br>
+
+```{r}
+#| echo: FALSE
+#| out.width: '30%'
+#| fig.align: 'center'
+knitr::include_graphics("images/logo_FRUSEED.png")
+```
+
+

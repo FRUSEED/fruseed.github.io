@@ -1,0 +1,12 @@
+---
+title: "Data"
+---
+
+The data will be available soon. Main traits available so far:
+
+```{r}
+#| echo: false
+#| out.width: '70%'
+knitr::include_graphics("images/tabla.png")
+```
+

@@ -1,0 +1,55 @@
+project:
+  type: website
+  # output-dir: docs
+
+website:
+  title: "FRUSEED"
+  description: "A global, open, dynamic, reproducible database of fruit and seed traits"
+  site-url: https://fruseed.github.io
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: data.qmd
+      - href: workflow.qmd
+      - href: team.qmd
+      - href: contribute.qmd
+      - href: contact.qmd
+  sidebar:
+    style: floating
+    # alignment: center
+    logo: images/logo_FRUSEED.png
+    # title: "--- FRUSEED ---"
+    # subtitle: ""
+    contents:
+      - href: index.qmd
+        text: Home
+      - href: data.qmd
+      - href: workflow.qmd
+      - href: team.qmd
+      - href: contribute.qmd
+      - href: contact.qmd
+    
+  page-footer: "FRUSEED"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    lang: en
+    # page-layout: full
+    
+execute:
+  freeze: auto
+  
+
+editor: source
+
+
+
+
+
+
+
+
