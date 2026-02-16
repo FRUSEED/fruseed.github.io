@@ -7,9 +7,9 @@ subtitle: "**A global, open, dynamic, reproducible database of fruit and seed tr
 
 - **+60 traits** on fruit and seed types, colour, mass, size, nutrients, as well as plant dispersal modes, life history, etc.
 
-- **+280,000 seed plant species** (angio and gymnosperms) recorded so far
+- **+250,000 seed plant species** (angio and gymnosperms) recorded so far
 
-- **+1000 data sources** integrated
+- **+400 data sources** integrated
 
 - Data from **individual to population to species**, genus, and family level
 
@@ -29,4 +29,15 @@ subtitle: "**A global, open, dynamic, reproducible database of fruit and seed tr
 knitr::include_graphics("images/logo_FRUSEED.png")
 ```
 
+
+<br>
+
+FRUSEED development has been funded by Fondo Europeo de Desarrollo Regional (FEDER) and Consejería de Transformación Económica, Industria, Conocimiento y Universidades of Junta de Andalucía (project US-1381388) and grant CNS2022-135839 from MICIU/AEI/10.13039/501100011033 and European Union (NextGenerationEU/PRTR).
+
+```{r}
+#| echo: FALSE
+#| out.width: '100%'
+#| fig.align: 'center'
+knitr::include_graphics("images/funding.png")
+```
 
