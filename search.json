@@ -47,7 +47,7 @@
     "href": "team.html",
     "title": "Team",
     "section": "",
-    "text": "PI\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items",
+    "text": "PI\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Home",
       "Team"
@@ -58,7 +58,7 @@
     "href": "team.html#core-team",
     "title": "Team",
     "section": "",
-    "text": "PI\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items",
+    "text": "PI\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Home",
       "Team"
@@ -69,7 +69,7 @@
     "href": "team.html#advisory-team",
     "title": "Team",
     "section": "Advisory team",
-    "text": "Advisory team\n\n\n\n\n\n\n\n\n\n\nPedro Jordano\n\n\n\n\n\n\n\n\n\n\n\n\n\nJuan Pedro González-Varo\n\n\n\n\n\n\n\n\n\n\n\n\n\nDaniel Falster\n\n\n\n\n\n\n\nNo matching items",
+    "text": "Advisory team\n\n\n\n\n\n\n\n\n\n\nPedro Jordano\n\n\n\n\n\n\n\n\n\n\n\n\nJuan Pedro González-Varo\n\n\n\n\n\n\n\n\n\n\n\n\nDaniel Falster\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Home",
       "Team"
@@ -123,7 +123,7 @@
     "href": "index.html",
     "title": "FRUSEED",
     "section": "",
-    "text": "+60 traits on fruit and seed types, colour, mass, size, nutrients, as well as plant dispersal modes, life history, etc.\n+280,000 seed plant species (angio and gymnosperms) recorded so far\n+1000 data sources integrated\nData from individual to population to species, genus, and family level\nDynamic and reproducible: 100% traceable from raw data to final database\nAutomatic quality control leveraging software development tools (GitHub Actions)\nCredit attribution to both data collectors and database curators",
+    "text": "+60 traits on fruit and seed types, colour, mass, size, nutrients, as well as plant dispersal modes, life history, etc.\n+250,000 seed plant species (angio and gymnosperms) recorded so far\n+400 data sources integrated\nData from individual to population to species, genus, and family level\nDynamic and reproducible: 100% traceable from raw data to final database\nAutomatic quality control leveraging software development tools (GitHub Actions)\nCredit attribution to both data collectors and database curators\n\n\n\n\n\n\n\n\n\n\n\n\nFRUSEED development has been funded by Fondo Europeo de Desarrollo Regional (FEDER) and Consejería de Transformación Económica, Industria, Conocimiento y Universidades of Junta de Andalucía (project US-1381388) and grant CNS2022-135839 from MICIU/AEI/10.13039/501100011033 and European Union (NextGenerationEU/PRTR).",
     "crumbs": [
       "Home"
     ]
